@@ -22,3 +22,4 @@ values(2,'Anmol ',21, 'M');
 
 select *from student;
 
+exit
